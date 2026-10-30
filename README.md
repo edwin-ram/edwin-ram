@@ -1,5 +1,5 @@
-<p aling = center>
-<img width="100" height="100" alt="giphy" src="https://github.com/user-attachments/assets/fac393d6-311a-4c5c-bf52-6e87fe7a937c" />
+<p aling = "center">
+  <img width="100" height="100" alt="giphy" src="https://github.com/user-attachments/assets/fac393d6-311a-4c5c-bf52-6e87fe7a937c" />
 </p>
 ## Hi this is Edwin, 👋
 -
