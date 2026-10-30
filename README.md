@@ -1,4 +1,4 @@
-<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/fac393d6-311a-4c5c-bf52-6e87fe7a937c" />
+<img width="100" height="100" alt="giphy" src="https://github.com/user-attachments/assets/fac393d6-311a-4c5c-bf52-6e87fe7a937c" />
 
 ## Hi this is Edwin, 👋
 -
